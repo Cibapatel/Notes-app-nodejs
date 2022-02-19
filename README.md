@@ -1,6 +1,4 @@
-NOTES APP
-Technology Used : NODEJS
-NPM Modules used : chalk,yargs
+NOTES APP USING NODEJS
 
 
 Command Line Options:
