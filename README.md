@@ -5,7 +5,7 @@ NPM Modules used : chalk,yargs
 
 Command Line Options:
 
-Listing All Notes from JSON file
+Listing All Notes
 	-> node app.js list
 
 Reading a particular note based on its tital
